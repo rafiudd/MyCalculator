@@ -47,7 +47,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
     fun onDigitClicked(view: View) {
         if(stateError) {
             binding.dataTv.text = (view as Button).text

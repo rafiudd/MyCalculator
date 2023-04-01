@@ -72,7 +72,7 @@
                 android:onClick="onClear"/>
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/delete"
-                android:text="AC"
+                android:text=""
                 android:backgroundTint="@color/grey_200"
                 android:textColor="@color/black"
                 style="@style/button"
